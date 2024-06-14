@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bdceb7b-4689-4263-90e7-405783adf4b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../API_Testing/requests/simple_books_API_requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../API_Testing/requests/simple_books_API_requests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_Testing/tests/test_Get_an_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/../API_Testing/tests/test_Get_an_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_Testing/tests/test_submit_an_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/../API_Testing/tests/test_submit_an_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_Testing/tests/test_update_an_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/../API_Testing/tests/test_update_an_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen_Final_Spotify/requests/Spotify_API_requests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen_Final_Spotify/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen_Final_Spotify/requests/get_album.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen_Final_Spotify/requests/get_playlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen_Final_Spotify/tests/browser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen_Final_Spotify/tests/environment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen_Final_Spotify/tests/generate_token.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen_Final_Spotify/tests/test_Get_Album.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_Final_Spotify/tests/test_Get_Album.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_2/Asserturi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_2/Asserturi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_3/structuri_de_date/dictionare.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_3/structuri_de_date/dictionare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_3/structuri_de_date/liste.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_3/structuri_de_date/liste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_3/structuri_de_date/seturi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_3/structuri_de_date/seturi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_3/structuri_de_date/structuri_de_date_teorie.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_3/structuri_de_date/structuri_de_date_teorie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_3/structuri_de_date/tupluri.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_3/structuri_de_date/tupluri.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_4/exercitii.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_4/exercitii.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_4/structura_repetitiva_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_4/structura_repetitiva_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_4/structura_repetitiva_foreach.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_4/structura_repetitiva_foreach.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_4/structura_repetitiva_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_4/structura_repetitiva_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_4/teorie_structuri_repetitive.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Automation/programming_notions/Curs_4/teorie_structuri_repetitive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_suite.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2hrV7gAcyk4FTQ8BJGnIdAvJp7C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/deea2/PycharmProjects/pythonProject/pythonProject/Suita_teste"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bdceb7b-4689-4263-90e7-405783adf4b2" name="Changes" comment="" />
+      <created>1718352017354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718352017354</updated>
+    </task>
+    <servers />
+  </component>
+</project>
